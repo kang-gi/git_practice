@@ -1,3 +1,12 @@
-# git_practice 
-Hyundai git program git_test
-i want a go home *집가고 싶다*
+.md - 마크다운
+마크다운은 엔터를 줄바꿈으로 인정하지x
+
+엔터가 두 번 되어야 다른 문단으로 인식
+
+공백두번("  ")
+같은 문단 내 줄바꿈으로 인식
+
+문단 줄바꿈
+문단 내 줄바꿈 <br> is 줄바꿈
+
+
